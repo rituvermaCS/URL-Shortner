@@ -4,4 +4,4 @@ It is a module of Url shortner using API using GoLang.
 
 To run this project use-
 
-go run hello.go <url>
+go run hello.go url-that-you-want-to-short
